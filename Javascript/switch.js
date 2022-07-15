@@ -13,4 +13,6 @@ const day="saturday";
     case "sunday":
         console.log("weekends")
         break;
+    default:
+        console.log("Not a day")
  }
